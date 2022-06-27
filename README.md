@@ -25,6 +25,8 @@ Trained model weights for PNODE, AT-PANet and all baselines on relevant settings
 
 Processed datasets of BCV, CT-ORG and Decathlon can be downloaded from [here](https://drive.google.com/drive/folders/1lvnV0XVluyHm2NZAUecYknpaxbzD2nNo?usp=sharing).
 
+Implementations of baseline FSS methods used in this repository are adapted from [here](https://github.com/oopil/3D_medical_image_FSS).
+
 ## Training
 
 To train baseline methods, go to their respective folders and run
