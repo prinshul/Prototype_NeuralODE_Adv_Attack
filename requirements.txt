@@ -1,0 +1,19 @@
+cleverhans==4.0.0
+matplotlib==3.5.1
+nn-common-modules @ https://github.com/ai-med/nn-common-modules/releases/download/v1.0/nn_common_modules-1.0-py2.py3-none-any.whl
+numpy @ file:///tmp/build/80754af9/numpy_and_numpy_base_1634095651905/work
+opencv-python==4.5.5.62
+Pillow==8.4.0
+sacred==0.8.2
+scikit-image==0.19.1
+scikit-learn==1.0.2
+scipy==1.7.3
+SimpleITK==2.1.1
+sklearn==0.0
+squeeze-and-excitation @ https://github.com/ai-med/squeeze_and_excitation/releases/download/v1.0/squeeze_and_excitation-1.0-py2.py3-none-any.whl
+tensorboardX==2.4.1
+torch==1.10.2
+torchaudio==0.10.2
+torchdiffeq==0.2.2
+torchvision==0.11.3
+tqdm==4.62.3
