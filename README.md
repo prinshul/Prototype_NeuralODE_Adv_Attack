@@ -1,5 +1,7 @@
 # PNODE-FSS
 
+Early accept at MICCAI 2022.
+
 Adversarially Robust Prototypical Few-shot Segmentation with Neural-ODEs
 
 
